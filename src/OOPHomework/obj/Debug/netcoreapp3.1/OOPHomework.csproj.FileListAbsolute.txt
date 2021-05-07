@@ -1,0 +1,13 @@
+C:\Users\krisk\source\repos\OOPHomework\OOPHomework\bin\Debug\netcoreapp3.1\OOPHomework.exe
+C:\Users\krisk\source\repos\OOPHomework\OOPHomework\bin\Debug\netcoreapp3.1\OOPHomework.deps.json
+C:\Users\krisk\source\repos\OOPHomework\OOPHomework\bin\Debug\netcoreapp3.1\OOPHomework.runtimeconfig.json
+C:\Users\krisk\source\repos\OOPHomework\OOPHomework\bin\Debug\netcoreapp3.1\OOPHomework.runtimeconfig.dev.json
+C:\Users\krisk\source\repos\OOPHomework\OOPHomework\bin\Debug\netcoreapp3.1\OOPHomework.dll
+C:\Users\krisk\source\repos\OOPHomework\OOPHomework\bin\Debug\netcoreapp3.1\OOPHomework.pdb
+C:\Users\krisk\source\repos\OOPHomework\OOPHomework\obj\Debug\netcoreapp3.1\OOPHomework.csprojAssemblyReference.cache
+C:\Users\krisk\source\repos\OOPHomework\OOPHomework\obj\Debug\netcoreapp3.1\OOPHomework.AssemblyInfoInputs.cache
+C:\Users\krisk\source\repos\OOPHomework\OOPHomework\obj\Debug\netcoreapp3.1\OOPHomework.AssemblyInfo.cs
+C:\Users\krisk\source\repos\OOPHomework\OOPHomework\obj\Debug\netcoreapp3.1\OOPHomework.csproj.CoreCompileInputs.cache
+C:\Users\krisk\source\repos\OOPHomework\OOPHomework\obj\Debug\netcoreapp3.1\OOPHomework.dll
+C:\Users\krisk\source\repos\OOPHomework\OOPHomework\obj\Debug\netcoreapp3.1\OOPHomework.pdb
+C:\Users\krisk\source\repos\OOPHomework\OOPHomework\obj\Debug\netcoreapp3.1\OOPHomework.genruntimeconfig.cache
